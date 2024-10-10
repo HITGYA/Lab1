@@ -4,6 +4,7 @@ import java.util.Iterator;
 import java.util.NoSuchElementException;
 import edu.princeton.cs.algs4.StdIn;
 import edu.princeton.cs.algs4.StdOut;;
+//  用于测试，修改了文件
 public class Queue<Item> implements Iterable <Item>{
 	private class Node{
 		Item item;
